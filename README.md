@@ -1,11 +1,11 @@
 Hey! Thanks for visting my Github Page!
 -
 - 👋 Hi, my name is Irvin Marquez
-- 📚 I am currently a 17 year old Highschool student that wants to dive into XR Development!
-- 👀 I’m very interested in XR Technology. I use a Meta Quest 2 headset to mess around
-- 🌱 I’m currently learning Unity Engine, C++, JavaScript
+- 📚 I am currently a 18 year old Highschool student that wants to dive into XR & BlockChain Development!
+- 👀 I’m very interested in XR Technology. I use a Meta Quest 2 headset to mess around.
+- 🌱 I’m currently learning Unity Engine, C++, JavaScript, Java, Solidity, and Front-End Devolopment
 
-~This page is currently being contructed
+~This page is currently being contructed~
 
 
 <!---
