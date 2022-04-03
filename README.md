@@ -4,7 +4,7 @@ Hey! Thanks for visting my Github Page!
 - 📚 I am currently a 18 year old Highschool student that wants to dive into XR & BlockChain Development!
 - 👀 I’m very interested in XR Technology. I use a Meta Quest 2 headset to mess around.
 - 🌱 I’m currently learning Unity Engine, C++, JavaScript, Solidity, and Front-End Devolopment
-- 🧠 I know Python & Java
+- 🧠 I have experience with both Python & Java
 
 -------This page is currently being contructed-------
 
