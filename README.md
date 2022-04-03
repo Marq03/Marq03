@@ -5,7 +5,7 @@ Hey! Thanks for visting my Github Page!
 - 👀 I’m very interested in XR Technology. I use a Meta Quest 2 headset to mess around.
 - 🌱 I’m currently learning Unity Engine, C++, JavaScript, Java, Solidity, and Front-End Devolopment
 
-~This page is currently being contructed~
+~This page is currently being contructed
 
 
 <!---
